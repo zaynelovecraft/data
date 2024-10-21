@@ -53,6 +53,15 @@
             "description": "A juicy grilled chicken breast topped with lettuce, tomato, and mayo, served on a whole wheat bun.",
             "calorie": 1020,
             "slug": "chicken-burger"
+        },
+         {
+            "id": "7",
+            "name": "zayne Sandwich",
+            "price": 799,
+            "image": "https://images.unsplash.com/photo-1530554764233-e79e16c91d08?q=80&w=3413&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "description": "A juicy grilled chicken breast topped with lettuce, tomato, and mayo, served on a whole wheat bun.",
+            "calorie": 1020,
+            "slug": "chicken-burger"
         }
     ]
 }
